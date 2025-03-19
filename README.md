@@ -97,7 +97,11 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 
 ##Solution:
-![image](https://github.com/user-attachments/assets/b9f57f3f-a735-4635-ae96-52b3e91759e7) ![image](https://github.com/user-attachments/assets/3cd71bc0-b753-4f10-b6e5-58c30e203edd) ![image](https://github.com/user-attachments/assets/71ed7015-0543-44b7-9fa4-fbadebc6bc0a)
+![image](https://github.com/user-attachments/assets/1ed64339-ba97-4ce6-8047-786c7959ba95)
+![image](https://github.com/user-attachments/assets/9082cdda-39b2-4e72-8dce-1c3468271114)
+![Uploading image.png…]()
+
+
 
 
 
