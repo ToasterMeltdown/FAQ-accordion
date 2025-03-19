@@ -32,9 +32,9 @@ body{
     margin: 20px;
     background-color: var(--White);
     padding: 2.5rem;
-    height: 550px;
-    width: 600px;
-    border-radius: 20px;
+    max-height: 950px;
+    width: 580px;
+    border-radius: 0.75rem;
     box-shadow: 1px 1px 5px rgb(133, 129, 129);
 }
 
@@ -75,7 +75,7 @@ body{
 }
 
 .faq-question h2{
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
     color: var(--Dark-purple)
 }
@@ -97,7 +97,7 @@ body{
 }
 
 .faq-answer.active{
-    display: block;
+    display: inline-block;
 }
 
 @media (max-width: 700px) {
