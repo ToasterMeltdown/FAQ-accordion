@@ -99,7 +99,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 ##Solution:
 ![image](https://github.com/user-attachments/assets/1ed64339-ba97-4ce6-8047-786c7959ba95)
 ![image](https://github.com/user-attachments/assets/9082cdda-39b2-4e72-8dce-1c3468271114)
-![Uploading image.png…]()
 
 
 
